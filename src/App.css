@@ -59,7 +59,7 @@ input
 }
 .list
 {
-    height:45vh;
+    height:25vh;
     overflow-y: scroll;
 }
 ::-webkit-scrollbar
